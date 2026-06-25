@@ -1,8 +1,8 @@
 - type: entity
   parent: [RMCMarineUniformBase, RMCAlternateFoldableUniformBase]
   id: AU14UniversalBlackFatigues
-  name: Black Fatigues
-  description: A set of black fatigues. It has shards of light Kevlar to help protect against shrapnel.
+  name: Dark Uniform #Change - Removed racism remark -pierow
+  description: A set of dark attire. It has shards of light Kevlar to help protect against shrapnel. #Change - Removed racism remark -pierow
   components:
   - type: Sprite
     sprite: _AU14/Clothing/blackfatigues.rsi
